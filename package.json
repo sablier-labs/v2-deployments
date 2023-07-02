@@ -1,0 +1,37 @@
+{
+  "name": "@sablier/v2-deployments",
+  "description": "Keeping track of Sablier V2 deployments",
+  "version": "1.0.0",
+  "author": {
+    "name": "Sablier Labs Ltd",
+    "url": "https://sablier.com"
+  },
+  "devDependencies": {
+    "prettier": "^2.8.8"
+  },
+  "keywords": [
+    "asset-streaming",
+    "blockchain",
+    "cryptoasset-streaming",
+    "cryptoassets",
+    "ethereum",
+    "foundry",
+    "money-streaming",
+    "real-time-finance",
+    "sablier",
+    "sablier-v2",
+    "smart-contracts",
+    "solidity",
+    "token-streaming"
+  ],
+  "license": "GPL-3.0-or-later",
+  "private": true,
+  "repository": "github.com:sablier-labs/v2-deployments",
+  "scripts": {
+    "prettier:check": "prettier --check \"**/*.{json,md,yml}\"",
+    "prettier:write": "prettier --write \"**/*.{json,md,yml}\""
+  },
+  "dependencies": {
+    "@sablier/v2-periphery": "1.0.0-rc.0"
+  }
+}
