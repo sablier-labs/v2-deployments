@@ -1,6 +1,23 @@
 # v1.0.0
 
-Here's a table with the CREATE2 salts used during deployment:
+## Sources
+
+- Commit: [412ec3d](https://github.com/sablier-labs/v2-core/commit/412ec3d3998a766507de96afdb26c797d2ae491d)
+- Package: [@sablier/v2-core@1.0.0](https://npmjs.com/package/@sablier/v2-core)
+
+## Compiler Settings
+
+| Setting        | Value  |
+| :------------- | :----- |
+| Version        | 0.8.19 |
+| EVM            | Paris  |
+| Optimizer      | Yes    |
+| Optimizer Runs | 1000   |
+| Via IR         | true   |
+
+## Salts
+
+The CREATE2 salts used during deployment:
 
 | Chain           | Salt                           |
 | :-------------- | :----------------------------- |
