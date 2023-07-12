@@ -1,6 +1,8 @@
 # v1.0.1
 
-The bytecodes for v1.0.1 are the same as those for v1.0.0. We shipped a new version to patch some faulty Foundry remappings. You can check all changes [here](https://github.com/sablier-labs/v2-periphery/releases/tag/v1.0.1).
+We shipped v1.0.1 to patch some faulty Foundry remappings, but the contract bytecodes are the same as those for
+[v1.0.0](../v1.0.0). You can see a full changelog
+[here](https://github.com/sablier-labs/v2-periphery/releases/tag/v1.0.1).
 
 ## Sources
 
