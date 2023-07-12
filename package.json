@@ -30,8 +30,5 @@
   "scripts": {
     "prettier:check": "prettier --check \"**/*.{json,md,yml}\"",
     "prettier:write": "prettier --write \"**/*.{json,md,yml}\""
-  },
-  "dependencies": {
-    "@sablier/v2-periphery": "1.0.0-rc.0"
   }
 }
