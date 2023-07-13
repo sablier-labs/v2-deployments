@@ -1,5 +1,11 @@
 # v1.0.0
 
+## Contract Deployed
+
+- SablierV2Archive
+- SablierV2Archive
+- SablierV2ProxyPlugin
+
 ## Sources
 
 - Commit: [ddb93e2](https://github.com/sablier-labs/v2-periphery/commit/ddb93e211a54eb69b0bca2b4b3ad42a0c88e135b)
