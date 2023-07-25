@@ -29,6 +29,7 @@ The CREATE2 salts used during deployment:
 | :-------------- | :--------------------------- |
 | Arbitrum One    | ChainID 42161, Version 1.0.0 |
 | Avalanche       | ChainID 43114, Version 1.0.0 |
+| Base            | ChainID 8453, Version 1.0.0  |
 | BNB Smart Chain | ChainID 56, Version 1.0.0    |
 | Goerli          | ChainID 5, Version 1.0.0     |
 | Gnosis          | ChainID 100, Version 1.0.0   |
