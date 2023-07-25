@@ -4,11 +4,6 @@ settings:
   autoInstallPeers: true
   excludeLinksFromLockfile: false
 
-dependencies:
-  '@sablier/v2-periphery':
-    specifier: 1.0.0-rc.0
-    version: 1.0.0-rc.0(@openzeppelin/contracts@4.9.2)(@prb/proxy@4.0.0-beta.6)(@sablier/v2-core@1.0.0-rc.0)
-
 devDependencies:
   prettier:
     specifier: ^2.8.8
@@ -16,49 +11,8 @@ devDependencies:
 
 packages:
 
-  /@openzeppelin/contracts@4.9.2:
-    resolution: {integrity: sha512-mO+y6JaqXjWeMh9glYVzVu8HYPGknAAnWyxTRhGeckOruyXQMNnlcW6w/Dx9ftLeIQk6N+ZJFuVmTwF7lEIFrg==}
-    dev: false
-
-  /@prb/math@4.0.1:
-    resolution: {integrity: sha512-ANTz2KMV+dMdZ57mWgDTR6jZo5uQzUczQEHCxd7CvJZZ9yafnfPhUUILHvvigIOZ85fZbTPVkC8YoRG1z5Qf7g==}
-    dev: false
-
-  /@prb/proxy@4.0.0-beta.6:
-    resolution: {integrity: sha512-RO8TleA/fAZun6GeM5eHZl5cBTr+09JMM4eLqLbAEWD0BiWkW6RsvemYtI4cwKnDB/bKJge4wI7RiywfN1lC8g==}
-    dev: false
-
-  /@sablier/v2-core@1.0.0-rc.0(@openzeppelin/contracts@4.9.2)(@prb/math@4.0.1):
-    resolution: {integrity: sha512-6VHl4rgvrrlmSzhZAfyWervs7jKCGpdUzbBpHeN9L59snb5BMQFKzRYtzM1MERprfU8FoZ0T0FpNEu1V26AQAQ==}
-    peerDependencies:
-      '@openzeppelin/contracts': 4.9.2
-      '@prb/math': 4.0.1
-    dependencies:
-      '@openzeppelin/contracts': 4.9.2
-      '@prb/math': 4.0.1
-    dev: false
-
-  /@sablier/v2-periphery@1.0.0-rc.0(@openzeppelin/contracts@4.9.2)(@prb/proxy@4.0.0-beta.6)(@sablier/v2-core@1.0.0-rc.0):
-    resolution: {integrity: sha512-L/JrI71doW8mG6o28q5m2gYjucy4htHmO/qhnHB2x6ntYHh4kghR+ViGqzc64WjA5Q0nIFb72Vdp3gW7Ol/4KQ==}
-    peerDependencies:
-      '@openzeppelin/contracts': 4.9.2
-      '@prb/proxy': 4.0.0-beta.6
-      '@sablier/v2-core': 1.0.0-rc.0
-    dependencies:
-      '@openzeppelin/contracts': 4.9.2
-      '@prb/proxy': 4.0.0-beta.6
-      '@sablier/v2-core': 1.0.0-rc.0(@openzeppelin/contracts@4.9.2)(@prb/math@4.0.1)
-      '@uniswap/permit2': github.com/sablier-labs/permit2/abd5832c931ebdce2dd04e81f353d23324d341be
-    dev: false
-
   /prettier@2.8.8:
     resolution: {integrity: sha512-tdN8qQGvNjw4CHbY+XXk0JgCXn9QiF21a55rBe5LJAU+kDyC4WQn4+awm2Xfk2lQMk5fKup9XgzTZtGkjBdP9Q==}
     engines: {node: '>=10.13.0'}
     hasBin: true
     dev: true
-
-  github.com/sablier-labs/permit2/abd5832c931ebdce2dd04e81f353d23324d341be:
-    resolution: {tarball: https://codeload.github.com/sablier-labs/permit2/tar.gz/abd5832c931ebdce2dd04e81f353d23324d341be}
-    name: permit2
-    version: 1.0.0
-    dev: false
