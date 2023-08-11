@@ -27,7 +27,7 @@
 The CREATE2 salts used during deployment:
 
 | Chain           | Salt                            |
-| :-------------- | :----------------------------   |
+| :-------------- | :------------------------------ |
 | Arbitrum Goerli | ChainID 421613, Version 1.0.0   |
 | Arbitrum One    | ChainID 42161, Version 1.0.0    |
 | Avalanche       | ChainID 43114, Version 1.0.0    |
