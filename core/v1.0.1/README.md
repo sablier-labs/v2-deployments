@@ -37,4 +37,5 @@ The CREATE2 salts used during deployment:
 | Mainnet         | ChainID 1, Version 1.0.1        |
 | Optimism        | ChainID 10, Version 1.0.1       |
 | Polygon         | ChainID 137, Version 1.0.1      |
+| Scroll          | ChainID 534352, Version 1.0.1   |
 | Sepolia         | ChainID 11155111, Version 1.0.1 |
