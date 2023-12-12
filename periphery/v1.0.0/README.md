@@ -3,8 +3,8 @@
 ## Contract Deployed
 
 - SablierV2Archive
-- SablierV2Archive
 - SablierV2ProxyPlugin
+- SablierV2ProxyTarget
 
 ## Sources
 
