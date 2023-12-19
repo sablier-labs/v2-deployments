@@ -1,5 +1,7 @@
 # v1.1.2
 
+See the [changelog](https://github.com/sablier-labs/v2-periphery/blob/main/CHANGELOG.md).
+
 ## Contract Deployed
 
 - SablierV2LockupLinear
@@ -27,7 +29,6 @@ The CREATE2 salts used during deployment:
 | Chain            | Salt                                              |
 | :--------------- | :------------------------------------------------ |
 | Arbitrum One     | ChainID 42161, Version 1.1.2                      |
-| Arbitrum Sepolia | ChainID $ARBITRUM_SEPOLIA_CHAIN_ID, Version 1.1.2 |
 | Base             | ChainID 8453, Version 1.1.2                       |
 | BNB Smart Chain  | ChainID $BSC_CHAIN_ID, Version 1.1.2              |
 | Gnosis           | ChainID $GNOSIS_CHAIN_ID, Version 1.1.2           |
@@ -35,4 +36,8 @@ The CREATE2 salts used during deployment:
 | Optimism         | ChainID 10, Version 1.1.2                         |
 | Polygon          | ChainID $POLYGON_CHAIN_ID, Version 1.1.2          |
 | Scroll           | ChainID 534352, Version 1.1.2                     |
+| Arbitrum Sepolia | ChainID $ARBITRUM_SEPOLIA_CHAIN_ID, Version 1.1.2 |
 | Sepolia          | ChainID 11155111, Version 1.1.2                   |
+
+The chain ids should have all been numerical values, but we have accidentally used the literal strings (e.g.
+`$GNOSIS_CHAIN_ID`) instead. The CREATE2 salts do not affect the behavior of the contracts, so this is not a problem.
