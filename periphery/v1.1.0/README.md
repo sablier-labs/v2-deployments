@@ -1,5 +1,7 @@
 # v1.1.0
 
+See the [changelog](https://github.com/sablier-labs/v2-periphery/blob/main/CHANGELOG.md).
+
 ## Contract Deployed
 
 - SablierV2Batch

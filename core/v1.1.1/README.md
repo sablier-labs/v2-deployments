@@ -1,9 +1,11 @@
 # v1.1.1
 
+See the [changelog](https://github.com/sablier-labs/v2-periphery/blob/main/CHANGELOG.md).
+
 ## Contract Deployed
 
-- SablierV2LockupLinear
 - SablierV2LockupDynamic
+- SablierV2LockupLinear
 - SablierV2NFTDescriptor
 
 ## Sources

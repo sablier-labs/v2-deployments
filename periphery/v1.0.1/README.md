@@ -1,6 +1,6 @@
 # v1.0.1
 
-Added `SablierV2ProxyTargetApprove` contract
+See the [changelog](https://github.com/sablier-labs/v2-periphery/blob/main/CHANGELOG.md).
 
 ## Contract Deployed
 

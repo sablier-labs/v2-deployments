@@ -3,8 +3,8 @@
 ## Contract Deployed
 
 - SablierV2Comptroller
-- SablierV2LockupLinear
 - SablierV2LockupDynamic
+- SablierV2LockupLinear
 - SablierV2NFTDescriptor
 
 ## Sources

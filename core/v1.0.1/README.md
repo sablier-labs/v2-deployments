@@ -1,6 +1,6 @@
 # v1.0.1
 
-See the [changelog](https://github.com/sablier-labs/v2-core/blob/v1.0.1/CHANGELOG.md).
+See the [changelog](https://github.com/sablier-labs/v2-core/blob/main/CHANGELOG.md).
 
 ## Contract Deployed
 
