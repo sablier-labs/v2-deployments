@@ -25,6 +25,10 @@ To learn more about Foundry, see the [Foundry Book](https://book.getfoundry.sh/)
 
 To learn more about Sablier, see the [Sablier Docs](https://docs.sablier.com/).
 
+## Addresses
+
+You can see the deployment addresses [here](https://docs.sablier.com/contracts/v2/deployments).
+
 ### Packages
 
 The contract artifacts and the ABIs are published as NPM packages:
