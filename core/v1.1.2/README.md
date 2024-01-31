@@ -33,6 +33,7 @@ The CREATE2 salts used during deployment:
 | Base             | ChainID 8453, Version 1.1.2                       |
 | BNB Smart Chain  | ChainID $BSC_CHAIN_ID, Version 1.1.2              |
 | Gnosis           | ChainID $GNOSIS_CHAIN_ID, Version 1.1.2           |
+| LightLink        | ChainID 1890, Version 1.1.2                       |
 | Mainnet          | ChainID 1, Version 1.1.2                          |
 | Optimism         | ChainID 10, Version 1.1.2                         |
 | Polygon          | ChainID $POLYGON_CHAIN_ID, Version 1.1.2          |
