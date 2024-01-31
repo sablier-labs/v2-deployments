@@ -38,6 +38,7 @@ The CREATE2 salts used during deployment:
 | Polygon          | ChainID $POLYGON_CHAIN_ID, Version 1.1.2          |
 | Scroll           | ChainID 534352, Version 1.1.2                     |
 | Arbitrum Sepolia | ChainID $ARBITRUM_SEPOLIA_CHAIN_ID, Version 1.1.2 |
+| Optimism Sepolia | ChainID 11155420, Version 1.1.2                   |
 | Sepolia          | ChainID 11155111, Version 1.1.2                   |
 
 The chain ids should have all been numerical values, but we have accidentally used the literal strings (e.g.
