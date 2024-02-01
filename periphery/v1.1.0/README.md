@@ -29,15 +29,12 @@ The CREATE2 salts used during deployment:
 | Chain            | Salt                            |
 | :--------------- | :------------------------------ |
 | Arbitrum One     | ChainID 42161, Version 1.1.0    |
-| Avalanche        | ChainID 43114, Version 1.1.0    |
 | Base             | ChainID 8453, Version 1.1.0     |
 | BNB Smart Chain  | ChainID 56, Version 1.1.0       |
 | Gnosis           | ChainID 100, Version 1.1.0      |
-| LightLink        | ChainID 1890, Version 1.1.0     |
 | Mainnet          | ChainID 1, Version 1.1.0        |
 | Optimism         | ChainID 10, Version 1.1.0       |
 | Polygon          | ChainID 137, Version 1.1.0      |
 | Scroll           | ChainID 534352, Version 1.1.0   |
 | Arbitrum Sepolia | ChainID 421614, Version 1.1.0   |
-| Optimism Sepolia | ChainID 11155420, Version 1.1.0 |
 | Sepolia          | ChainID 11155111, Version 1.1.0 |
