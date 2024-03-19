@@ -29,7 +29,8 @@ The CREATE2 salts used during deployment:
 | Chain            | Salt                            |
 | :--------------- | :------------------------------ |
 | Avalanche        | ChainID 43114, Version 1.1.0    |
+| Base Sepolia     | ChainID 84532, Version 1.1.1    |
 | LightLink        | ChainID 1890, Version 1.1.0     |
 | Optimism Sepolia | ChainID 11155420, Version 1.1.0 |
 
-Note: we have accidentally set the version to "1.1.0". It should have been "v1.1.1".
+Note: we have accidentally set the version to "1.1.0" in the Salt. It should have been "v1.1.1".
