@@ -43,6 +43,7 @@ The CREATE2 salts used during deployment:
 | Optimism Sepolia | ChainID 11155420, Version 1.1.2                   |
 | Sepolia          | ChainID 11155111, Version 1.1.2                   |
 | Taiko            | No salt                                           |
+| zkSync           | No salt                                           |
 
 The chain ids should have all been numerical values, but we have accidentally used the literal strings (e.g.
 `$GNOSIS_CHAIN_ID`) instead. The CREATE2 salts do not affect the behavior of the contracts, so this is not a problem.
