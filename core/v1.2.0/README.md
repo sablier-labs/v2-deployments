@@ -37,3 +37,4 @@ The CREATE2 salts used during deployment:
 | Polygon         | ChainID 137, Version 1.2.0      |
 | Scroll          | ChainID 534352, Version 1.2.0   |
 | Sepolia         | ChainID 11155111, Version 1.2.0 |
+| zkSync          | No salt                         |
