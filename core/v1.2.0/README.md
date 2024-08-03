@@ -44,3 +44,4 @@ The CREATE2 salts used during deployment:
 | Base Sepolia     | ChainID 84532, Version 1.2.0     |
 | Blast Sepolia    | ChainID 168587773, Version 1.2.0 |
 | Optimism Sepolia | ChainID 11155420, Version 1.2.0  |
+| Taiko Hekla      | ChainID 167009, Version 1.2.0    |
