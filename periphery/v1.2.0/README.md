@@ -36,11 +36,13 @@ The CREATE2 salts used during deployment:
 | Gnosis           | ChainID 100, Version 1.2.0       |
 | LightLink        | ChainID 1890, Version 1.2.0      |
 | Mainnet          | ChainID 1, Version 1.2.0         |
+| Mode             | ChainID 34443, Version 1.2.0     |
 | Optimism         | ChainID 10, Version 1.2.0        |
 | Polygon          | ChainID 137, Version 1.2.0       |
 | Scroll           | ChainID 534352, Version 1.2.0    |
 | Sepolia          | ChainID 11155111, Version 1.2.0  |
 | Arbitrum Sepolia | ChainID 421611, Version 1.2.0    |
 | Blast Sepolia    | ChainID 168587773, Version 1.2.0 |
+| Mode Sepolia     | ChainID 919, Version 1.2.0       |
 | Optimism Sepolia | ChainID 11155420, Version 1.2.0  |
 | Taiko Hekla      | ChainID 167009, Version 1.2.0    |
