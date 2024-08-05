@@ -22,6 +22,19 @@
 | Optimizer Runs | 1000     |
 | Via IR         | true     |
 
+### Linea Compiler Settings
+
+Due to the lack of [EIP-3855](https://eips.ethereum.org/EIPS/eip-3855) support, we had to use the following settings for
+Linea:
+
+| Setting        | Value  |
+| :------------- | :----- |
+| Version        | 0.8.26 |
+| EVM            | Paris  |
+| Optimizer      | Yes    |
+| Optimizer Runs | 500    |
+| Via IR         | true   |
+
 ## Salts
 
 The CREATE2 salts used during deployment:
@@ -34,6 +47,7 @@ The CREATE2 salts used during deployment:
 | Blast            | ChainID 81457, Version 1.2.0     |
 | BNB Smart Chain  | ChainID 56, Version 1.2.0        |
 | Gnosis           | ChainID 100, Version 1.2.0       |
+| Linea            | ChainID 59144, Version 1.2.0     |
 | LightLink        | ChainID 1890, Version 1.2.0      |
 | Mainnet          | ChainID 1, Version 1.2.0         |
 | Mode             | ChainID 34443, Version 1.2.0     |
@@ -44,6 +58,7 @@ The CREATE2 salts used during deployment:
 | Arbitrum Sepolia | ChainID 421611, Version 1.2.0    |
 | Base Sepolia     | ChainID 84532, Version 1.2.0     |
 | Blast Sepolia    | ChainID 168587773, Version 1.2.0 |
+| Linea Sepolia    | ChainID 59141, Version 1.2.0     |
 | Mode Sepolia     | ChainID 919, Version 1.2.0       |
 | Optimism Sepolia | ChainID 11155420, Version 1.2.0  |
 | Taiko Hekla      | ChainID 167009, Version 1.2.0    |
