@@ -45,6 +45,7 @@ The CREATE2 salts used during deployment:
 | BeraChain Artio  | ChainID 80084, Version 1.2.0     |
 | Blast Sepolia    | ChainID 168587773, Version 1.2.0 |
 | Mode Sepolia     | ChainID 919, Version 1.2.0       |
+| Morph Holesky    | ChainID 2810, Version 1.2.0      |
 | Optimism Sepolia | ChainID 11155420, Version 1.2.0  |
 | Taiko Hekla      | ChainID 167009, Version 1.2.0    |
 | Taiko Mainnet    | ChainID 167000, Version 1.2.0    |
