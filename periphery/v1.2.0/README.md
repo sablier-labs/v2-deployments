@@ -22,6 +22,19 @@ See the [changelog](https://github.com/sablier-labs/v2-periphery/blob/main/CHANG
 | Optimizer Runs | 10000    |
 | Via IR         | true     |
 
+### Linea Compiler Settings
+
+Due to the lack of [EIP-3855](https://eips.ethereum.org/EIPS/eip-3855) support, we had to use the following settings for
+Linea:
+
+| Setting        | Value  |
+| :------------- | :----- |
+| Version        | 0.8.26 |
+| EVM            | Paris  |
+| Optimizer      | Yes    |
+| Optimizer Runs | 10000  |
+| Via IR         | true   |
+
 ## Salts
 
 The CREATE2 salts used during deployment:
