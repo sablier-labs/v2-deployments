@@ -4338,18 +4338,10 @@
     "absolutePath": "src/SablierV2ProxyTargetApprove.sol",
     "id": 46051,
     "exportedSymbols": {
-      "IERC20": [
-        24212
-      ],
-      "SablierV2ProxyTarget": [
-        48035
-      ],
-      "SablierV2ProxyTargetApprove": [
-        46050
-      ],
-      "SafeERC20": [
-        24649
-      ]
+      "IERC20": [24212],
+      "SablierV2ProxyTarget": [48035],
+      "SablierV2ProxyTargetApprove": [46050],
+      "SafeERC20": [24649]
     },
     "nodeType": "SourceUnit",
     "src": "45:1291:115",
@@ -4359,12 +4351,7 @@
         "nodeType": "PragmaDirective",
         "src": "45:25:115",
         "nodes": [],
-        "literals": [
-          "solidity",
-          ">=",
-          "0.8",
-          ".19"
-        ]
+        "literals": ["solidity", ">=", "0.8", ".19"]
       },
       {
         "id": 46001,
@@ -4458,9 +4445,7 @@
             "libraryName": {
               "id": 46009,
               "name": "SafeERC20",
-              "nameLocations": [
-                "523:9:115"
-              ],
+              "nameLocations": ["523:9:115"],
               "nodeType": "IdentifierPath",
               "referencedDeclaration": 24649,
               "src": "523:9:115"
@@ -4471,9 +4456,7 @@
               "pathNode": {
                 "id": 46010,
                 "name": "IERC20",
-                "nameLocations": [
-                  "537:6:115"
-                ],
+                "nameLocations": ["537:6:115"],
                 "nodeType": "IdentifierPath",
                 "referencedDeclaration": 24212,
                 "src": "537:6:115"
@@ -4498,9 +4481,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    46027
-                  ],
+                  "assignments": [46027],
                   "declarations": [
                     {
                       "constant": false,
@@ -4699,16 +4680,8 @@
                     "isPure": false,
                     "kind": "functionCall",
                     "lValueRequested": false,
-                    "nameLocations": [
-                      "1171:4:115",
-                      "1184:2:115",
-                      "1203:5:115"
-                    ],
-                    "names": [
-                      "from",
-                      "to",
-                      "value"
-                    ],
+                    "nameLocations": ["1171:4:115", "1184:2:115", "1203:5:115"],
+                    "names": ["from", "to", "value"],
                     "nodeType": "FunctionCall",
                     "src": "1146:73:115",
                     "tryCall": false,
@@ -4809,9 +4782,7 @@
                 }
               ]
             },
-            "baseFunctions": [
-              47908
-            ],
+            "baseFunctions": [47908],
             "documentation": {
               "id": 46013,
               "nodeType": "StructuredDocumentation",
@@ -4882,9 +4853,7 @@
                     "pathNode": {
                       "id": 46016,
                       "name": "IERC20",
-                      "nameLocations": [
-                        "876:6:115"
-                      ],
+                      "nameLocations": ["876:6:115"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 24212,
                       "src": "876:6:115"
@@ -4973,9 +4942,7 @@
             "baseName": {
               "id": 46007,
               "name": "SablierV2ProxyTarget",
-              "nameLocations": [
-                "490:20:115"
-              ],
+              "nameLocations": ["490:20:115"],
               "nodeType": "IdentifierPath",
               "referencedDeclaration": 48035,
               "src": "490:20:115"
@@ -4995,20 +4962,11 @@
           "text": "@title SablierV2ProxyTargetApprove\n @notice Proxy target contract that implements the transfer logic using standard ERC-20 approvals."
         },
         "fullyImplemented": true,
-        "linearizedBaseContracts": [
-          46050,
-          48035,
-          46217,
-          48750
-        ],
+        "linearizedBaseContracts": [46050, 48035, 46217, 48750],
         "name": "SablierV2ProxyTargetApprove",
         "nameLocation": "459:27:115",
         "scope": 46051,
-        "usedErrors": [
-          48774,
-          48806,
-          48813
-        ],
+        "usedErrors": [48774, 48806, 48813],
         "usedEvents": []
       }
     ],

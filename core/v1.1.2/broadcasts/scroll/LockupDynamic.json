@@ -27,9 +27,7 @@
   ],
   "receipts": [],
   "libraries": [],
-  "pending": [
-    "0x0a3029c122e399250111ec7a90f9d0a4591986930e20759b0a6bb7c647468e9e"
-  ],
+  "pending": ["0x0a3029c122e399250111ec7a90f9d0a4591986930e20759b0a6bb7c647468e9e"],
   "returns": {
     "lockupDynamic": {
       "internal_type": "contract SablierV2LockupDynamic",

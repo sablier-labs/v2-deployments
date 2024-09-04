@@ -72,9 +72,7 @@
   ],
   "receipts": [],
   "libraries": [],
-  "pending": [
-    "0x48090af8ad227a6c682ce9cb11e4239fa1e4d42ecc60fa807cb4919e4afaf54c"
-  ],
+  "pending": ["0x48090af8ad227a6c682ce9cb11e4239fa1e4d42ecc60fa807cb4919e4afaf54c"],
   "returns": {
     "nftDescriptor": {
       "internal_type": "contract SablierV2NFTDescriptor",

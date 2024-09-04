@@ -6,9 +6,7 @@
       "contractName": "SablierV2Comptroller",
       "contractAddress": "0xb568f9Bc0dcE39B9B64e843bC19DA102B5E3E939",
       "function": null,
-      "arguments": [
-        "0xb1bEF51ebCA01EB12001a639bDBbFF6eEcA12B9F"
-      ],
+      "arguments": ["0xb1bEF51ebCA01EB12001a639bDBbFF6eEcA12B9F"],
       "transaction": {
         "type": "0x00",
         "from": "0xb1bef51ebca01eb12001a639bdbbff6eeca12b9f",

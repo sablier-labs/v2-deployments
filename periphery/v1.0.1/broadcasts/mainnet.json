@@ -23,9 +23,7 @@
   ],
   "receipts": [],
   "libraries": [],
-  "pending": [
-    "0x8b8ab5b1dd2f008b8a439d7218220e97e84c41c47e9d62f7f67ed6cfb95022ac"
-  ],
+  "pending": ["0x8b8ab5b1dd2f008b8a439d7218220e97e84c41c47e9d62f7f67ed6cfb95022ac"],
   "returns": {
     "targetApprove": {
       "internal_type": "contract SablierV2ProxyTargetApprove",

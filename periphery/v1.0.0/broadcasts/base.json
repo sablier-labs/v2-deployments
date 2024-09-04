@@ -66,9 +66,7 @@
       "contractName": "SablierV2Archive",
       "contractAddress": "0x1C5Ac71dd48c7ff291743e5E6e3689ba92F73cC6",
       "function": "list(address)",
-      "arguments": [
-        "0x645B00960Dc352e699F89a81Fc845C0C645231cf"
-      ],
+      "arguments": ["0x645B00960Dc352e699F89a81Fc845C0C645231cf"],
       "transaction": {
         "type": "0x02",
         "from": "0xb1bef51ebca01eb12001a639bdbbff6eeca12b9f",
@@ -88,9 +86,7 @@
       "contractName": "SablierV2Archive",
       "contractAddress": "0x1C5Ac71dd48c7ff291743e5E6e3689ba92F73cC6",
       "function": "list(address)",
-      "arguments": [
-        "0x6b9a46C8377f21517E65fa3899b3A9Fab19D17f5"
-      ],
+      "arguments": ["0x6b9a46C8377f21517E65fa3899b3A9Fab19D17f5"],
       "transaction": {
         "type": "0x02",
         "from": "0xb1bef51ebca01eb12001a639bdbbff6eeca12b9f",
@@ -110,9 +106,7 @@
       "contractName": "SablierV2Archive",
       "contractAddress": "0x1C5Ac71dd48c7ff291743e5E6e3689ba92F73cC6",
       "function": "transferAdmin(address)",
-      "arguments": [
-        "0x83A6fA8c04420B3F9C7A4CF1c040b63Fbbc89B66"
-      ],
+      "arguments": ["0x83A6fA8c04420B3F9C7A4CF1c040b63Fbbc89B66"],
       "transaction": {
         "type": "0x02",
         "from": "0xb1bef51ebca01eb12001a639bdbbff6eeca12b9f",
