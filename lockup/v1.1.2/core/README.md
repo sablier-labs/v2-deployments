@@ -26,24 +26,31 @@ See the [changelog](https://github.com/sablier-labs/v2-periphery/blob/main/CHANG
 
 The CREATE2 salts used during deployment:
 
+### Mainnets
+
+| Chain           | Salt                                     |
+| :-------------- | :--------------------------------------- |
+| Arbitrum One    | ChainID 42161, Version 1.1.2             |
+| Avalanche       | ChainID 43114, Version 1.1.2             |
+| Base            | ChainID 8453, Version 1.1.2              |
+| BNB Smart Chain | ChainID $BSC_CHAIN_ID, Version 1.1.2     |
+| Gnosis          | ChainID $GNOSIS_CHAIN_ID, Version 1.1.2  |
+| LightLink       | ChainID 1890, Version 1.1.2              |
+| Mainnet         | ChainID 1, Version 1.1.2                 |
+| Optimism        | ChainID 10, Version 1.1.2                |
+| Polygon         | ChainID $POLYGON_CHAIN_ID, Version 1.1.2 |
+| Scroll          | ChainID 534352, Version 1.1.2            |
+| Taiko           | No salt                                  |
+| zkSync          | No salt                                  |
+
+### Testnets
+
 | Chain            | Salt                                              |
 | :--------------- | :------------------------------------------------ |
-| Arbitrum One     | ChainID 42161, Version 1.1.2                      |
-| Avalanche        | ChainID 43114, Version 1.1.2                      |
-| Base             | ChainID 8453, Version 1.1.2                       |
-| BNB Smart Chain  | ChainID $BSC_CHAIN_ID, Version 1.1.2              |
-| Gnosis           | ChainID $GNOSIS_CHAIN_ID, Version 1.1.2           |
-| LightLink        | ChainID 1890, Version 1.1.2                       |
-| Mainnet          | ChainID 1, Version 1.1.2                          |
-| Optimism         | ChainID 10, Version 1.1.2                         |
-| Polygon          | ChainID $POLYGON_CHAIN_ID, Version 1.1.2          |
-| Scroll           | ChainID 534352, Version 1.1.2                     |
 | Arbitrum Sepolia | ChainID $ARBITRUM_SEPOLIA_CHAIN_ID, Version 1.1.2 |
 | Base Sepolia     | ChainID 84532, Version 1.1.2                      |
 | Optimism Sepolia | ChainID 11155420, Version 1.1.2                   |
 | Sepolia          | ChainID 11155111, Version 1.1.2                   |
-| Taiko            | No salt                                           |
-| zkSync           | No salt                                           |
 
 The chain ids should have all been numerical values, but we have accidentally used the literal strings (e.g.
 `$GNOSIS_CHAIN_ID`) instead. The CREATE2 salts do not affect the behavior of the contracts, so this is not a problem.

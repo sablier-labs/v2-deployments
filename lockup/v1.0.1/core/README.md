@@ -25,17 +25,22 @@ See the [changelog](https://github.com/sablier-labs/v2-core/blob/main/CHANGELOG.
 
 The CREATE2 salts used during deployment:
 
+| Chain           | Salt                          |
+| :-------------- | :---------------------------- |
+| Arbitrum One    | ChainID 42161, Version 1.0.1  |
+| Avalanche       | ChainID 43114, Version 1.0.1  |
+| Base            | ChainID 8453, Version 1.0.1   |
+| BNB Smart Chain | ChainID 56, Version 1.0.1     |
+| Gnosis          | ChainID 100, Version 1.0.1    |
+| Mainnet         | ChainID 1, Version 1.0.1      |
+| Optimism        | ChainID 10, Version 1.0.1     |
+| Polygon         | ChainID 137, Version 1.0.1    |
+| Scroll          | ChainID 534352, Version 1.0.1 |
+
+### Testnets
+
 | Chain           | Salt                            |
 | :-------------- | :------------------------------ |
 | Arbitrum Goerli | ChainID 421613, Version 1.0.1   |
-| Arbitrum One    | ChainID 42161, Version 1.0.1    |
-| Avalanche       | ChainID 43114, Version 1.0.1    |
-| Base            | ChainID 8453, Version 1.0.1     |
-| BNB Smart Chain | ChainID 56, Version 1.0.1       |
 | Goerli          | ChainID 5, Version 1.0.1        |
-| Gnosis          | ChainID 100, Version 1.0.1      |
-| Mainnet         | ChainID 1, Version 1.0.1        |
-| Optimism        | ChainID 10, Version 1.0.1       |
-| Polygon         | ChainID 137, Version 1.0.1      |
-| Scroll          | ChainID 534352, Version 1.0.1   |
 | Sepolia         | ChainID 11155111, Version 1.0.1 |
