@@ -35,4 +35,4 @@ The CREATE2 salts used during deployment:
 | Taiko            | No salt                         |
 | zkSync           | No salt                         |
 
-Note: we have accidentally set the version to "1.1.0" in the Salt. It should have been "v1.1.1".
+**Note:** we have accidentally set the version to "1.1.0" in the Salt. It should have been "v1.1.1".
