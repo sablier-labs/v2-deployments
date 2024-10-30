@@ -22,10 +22,10 @@
 | Optimizer Runs | 1000     |
 | Via IR         | true     |
 
-### Linea Compiler Settings
+### Core Dao and Linea Compiler Settings
 
 Due to the lack of [EIP-3855](https://eips.ethereum.org/EIPS/eip-3855) support, we had to use the following settings for
-Linea:
+Core Dao and Linea:
 
 | Setting        | Value  |
 | :------------- | :----- |
@@ -46,6 +46,7 @@ The CREATE2 salts used during deployment:
 | Base             | ChainID 8453, Version 1.2.0      |
 | Blast            | ChainID 81457, Version 1.2.0     |
 | BNB Smart Chain  | ChainID 56, Version 1.2.0        |
+| Core Dao         | ChainID 1116, Version 1.2.0      |
 | Gnosis           | ChainID 100, Version 1.2.0       |
 | Linea            | ChainID 59144, Version 1.2.0     |
 | LightLink        | ChainID 1890, Version 1.2.0      |
