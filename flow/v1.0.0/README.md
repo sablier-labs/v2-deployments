@@ -7,7 +7,7 @@
 
 ## Sources
 
-- Commit: [10b5bf3](https://github.com/sablier-labs/flow/commit/10b5bf315bd07a9926d18f89cc68698d8d87eea9)
+- Commit: [ba8c67a](https://github.com/sablier-labs/flow/commit/ba8c67a35d9cfd4fe646c2ab7db2c40e93d7fd6f)
 - Package: [@sablier/flow@1.0.0](https://npmjs.com/package/@sablier/flow/v/1.0.0)
 
 ## Compiler Settings
