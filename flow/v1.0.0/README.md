@@ -46,6 +46,21 @@ Tangle:
 | Optimizer Runs | 10,000 |
 | Via IR         | true   |
 
+### zkSync
+
+Since `zkSync` has its own VM, we needed to use their tools,
+[Hardhat zkSync](https://github.com/matter-labs/hardhat-zksync), to deploy the contracts with the following
+configuration:
+
+| Setting        | Value  |
+| :------------- | :----- |
+| Version        | 0.8.26 |
+| zkSolc         | 1.5.6  |
+| EVM            | Paris  |
+| Optimizer      | Yes    |
+| Optimizer Runs | 200    |
+| Via IR         | true   |
+
 ## Salts
 
 The CREATE2 salts used during deployment:

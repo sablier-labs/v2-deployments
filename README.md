@@ -18,8 +18,8 @@ If you need the deployment addresses, you can find them in the
 
 ## Background
 
-Sablier Protocols have been built, tested, formatted, and deployed with the [Foundry](https://getfoundry.sh/) smart contract
-development toolchain.
+Sablier Protocols have been built, tested, formatted, and deployed with the [Foundry](https://getfoundry.sh/) smart
+contract development toolchain.
 
 To learn more about Foundry, see the [Foundry Book](https://book.getfoundry.sh/).
 
@@ -43,6 +43,7 @@ The contracts have been deployed using these scripts:
 
 - [v2-core/script](https://github.com/sablier-labs/v2-core/tree/main/script)
 - [v2-periphery/script](https://github.com/sablier-labs/v2-periphery/tree/main/script)
+- [flow/script](https://github.com/sablier-labs/flow/tree/main/script)
 
 Specifically, with the "DeployDeterministic" scripts, which use this CREATE2 factory:
 
