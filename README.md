@@ -18,7 +18,7 @@ If you need the deployment addresses, you can find them in the
 
 ## Background
 
-Sablier V2 has been built, tested, formatted, and deployed with the [Foundry](https://getfoundry.sh/) smart contract
+Sablier Protocols have been built, tested, formatted, and deployed with the [Foundry](https://getfoundry.sh/) smart contract
 development toolchain.
 
 To learn more about Foundry, see the [Foundry Book](https://book.getfoundry.sh/).
@@ -35,6 +35,7 @@ The contract artifacts and the ABIs are published as NPM packages:
 
 - [@sablier/v2-core](https://npmjs.com/package/@sablier/v2-core)
 - [@sablier/v2-periphery](https://npmjs.com/package/@sablier/v2-periphery)
+- [@sablier/flow](https://npmjs.com/package/@sablier/flow)
 
 ## Scripts
 
