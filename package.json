@@ -1,6 +1,6 @@
 {
-  "name": "@sablier/v2-deployments",
-  "description": "Keeping track of Sablier V2 deployments",
+  "name": "@sablier/deployments",
+  "description": "Keeping track of Sablier deployments",
   "version": "1.0.0",
   "author": {
     "name": "Sablier Labs Ltd",
@@ -26,7 +26,7 @@
   ],
   "license": "GPL-3.0-or-later",
   "private": true,
-  "repository": "github.com:sablier-labs/v2-deployments",
+  "repository": "github.com:sablier-labs/deployments",
   "scripts": {
     "prettier:check": "prettier --check \"**/*.{json,md,yml}\"",
     "prettier:write": "prettier --write \"**/*.{json,md,yml}\""
