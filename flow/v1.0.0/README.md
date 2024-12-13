@@ -74,6 +74,7 @@ The CREATE2 salts used during deployment:
 | Base            | ChainID 8453, Version 1.0.0   |
 | Blast           | ChainID 81457, Version 1.0.0  |
 | BNB Smart Chain | ChainID 56, Version 1.0.0     |
+| Chiliz          | No Salt                       |
 | Core Dao        | ChainID 1116, Version 1.0.0   |
 | Gnosis          | ChainID 100, Version 1.0.0    |
 | IoTex           | No Salt                       |
